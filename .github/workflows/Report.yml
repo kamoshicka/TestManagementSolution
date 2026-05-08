@@ -30,6 +30,10 @@ jobs:
         with:
           persist-credentials: true # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
           fetch-depth: 0
+      - name: Fetch all branches
+        run: |
+          git fetch --all
+          git fetch origin main
       - uses: actions/setup-java@v2
         with:
           distribution: 'adopt' # See 'Supported distributions' for available options
