@@ -17,7 +17,7 @@ src/tests/login/login.spec.ts
 ユーザーセッションが作成されている
 
 ## Date Tested (mm/dd/yy hh:mm:ss)
-05/08/26 14:30:00
+05/08/26 17:36:00
 
 ## Test Case Results (Pass / Fail / Not executed / Suspended)
 Fail
