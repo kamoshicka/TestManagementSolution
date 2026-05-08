@@ -20,7 +20,7 @@ src/tests/login/login.spec.ts
 05/08/26 14:30:00
 
 ## Test Case Results (Pass / Fail / Not executed / Suspended)
-Pass
+Fail
 
 ## Test Steps
 
