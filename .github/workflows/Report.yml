@@ -36,8 +36,8 @@ jobs:
           java-version: '11'
           
        # Delete files in Reports folder
-      - name: Remove File
-        run: rm -rf $GITHUB_WORKSPACE/Reports/*
+      #- name: Remove File
+      #  run: rm -rf $GITHUB_WORKSPACE/Reports/*
       
        # Runs a analysic command with config file
       - name: Run analysic
