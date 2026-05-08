@@ -1,30 +1,33 @@
-## Test Case ID
-* N/A
-## Test Script Location
-* N/A
-## Test Case Name
-* N/A
-## Test Case Description
-* N/A
-* N/A
-## Pre-conditions
-* N/A
-## Post-conditions
-* N/A
-## Date Tested (mm/dd/yy hh:mm:ss)
-* N/A
-## Test Case Results (Pass / Fail / Not executed / Suspended)
-* Not executed
+## テストケースID
+* LOGIN-001
+## テストコードのパス
+* src/tests/login/login.spec.ts
+## テストケース名
+* 正しいユーザー情報でログインできること
+## 説明
+* 登録済みユーザーが正常にログインできることを確認する
+* ログイン後にマイページへ遷移することを確認する
+## 事前条件
+* テストユーザー test01 が登録済みである
+* パスワードが password123 で設定されている
+* ログイン画面へアクセス済みである
+## 事後条件
+* ユーザーセッションが作成されている
+* 最終ログイン日時が更新されている
+## テスト日時 (mm/dd/yy hh:mm:ss)
+* 05/08/26 14:30:00
+## テスト結果 (合格 / 不合格 / 未実行 / 停止)
+* Pass
 ---
-## Test Steps
+## 再現手順
 1. Step 1
-	* Step Details
+	* 詳細
+		* /login にアクセスする
+	* テストデータ
 		* N/A
-	* Test Data
-		* N/A
-	* Expected Results
-		* N/A
-	* Actual Results
-		* N/A
+	* 期待値
+		* ログイン画面が表示される
+	* 結果
+		* ログイン画面が表示された
 	* Pass / Fail / Not executed / Suspended
 		* Pass
