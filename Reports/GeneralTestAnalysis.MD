@@ -1,4 +1,6 @@
 ## Summary
+	* N/A
+	* N/A
 	* Pass: 0
 	* Fail: 0
 	* Not executed: 1
@@ -6,6 +8,4 @@
 	* Total: 1
 ## Details
 1. N/A
-	* [N/A ](..%2FTests%2FGeneralTest.md)
-	* N/A
 	* Not executed
