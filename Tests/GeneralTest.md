@@ -27,4 +27,4 @@
 	* Actual Results
 		* N/A
 	* Pass / Fail / Not executed / Suspended
-		* Not executed
+		* Pass
