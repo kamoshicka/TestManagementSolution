@@ -36,7 +36,7 @@ Pass
   * ログイン画面が表示される
 
 * Actual Results
-  * ログイン画面が表示された
+  * ログイン画面が表示されない
 
 * Pass / Fail / Not executed / Suspended
-  * Pass
+  * Fail
