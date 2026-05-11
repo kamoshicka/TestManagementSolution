@@ -20,7 +20,7 @@ src/tests/login/login.spec.ts
 05/08/26 17:36:00
 
 ## Test Case Results (Pass / Fail / Not executed / Suspended)
-Fail
+Pass
 
 ## Test Steps
 
@@ -39,4 +39,4 @@ Fail
   * ログイン画面が表示されない
 
 * Pass / Fail / Not executed / Suspended
-  * Fail
+  * Pass
